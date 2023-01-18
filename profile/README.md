@@ -40,7 +40,7 @@
 <a href="https://dev.to/RupomChowdhury" target="blank"><img src="https://github.com/visibleuser/visibleuser/blob/main/c-icons/dev-dot-to.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> <!-- © RupomChowdhury -->
 <a href="https://stackoverflow.com/users/14770061" target="blank"><img src="https://github.com/visibleuser/visibleuser/blob/main/c-icons/stackoverflow.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://codesandbox.com/u/RupomChowdhury" target="blank"><img src="https://github.com/visibleuser/visibleuser/blob/main/c-icons/codesandbox.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
-<a href="https://medium.com/@rupombd" target="blank"><img src="https://github.com/invisiblepanda/visibleuser/blob/main/c-icons/medium.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
+<a href="https://medium.com/@rupombd" target="blank"><img src="https://github.com/visibleuser/visibleuser/blob/main/c-icons/medium.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 </p>
 </div>
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=RupomChowdhury" alt="RupomChowdhury" /> </p> -->

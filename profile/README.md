@@ -22,7 +22,7 @@
 <div align="center">
 <img height="170" align="left" src="https://github.com/visibleuser/visibleuser/blob/main/prev3.gif" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=visibleuser&" alt="RupomChowdhury" />
-<img height="170" align="right" src="https://github.com/invisiblepanda/visibleuser/blob/main/heckerboi2.gif" />
+<img height="170" align="right" src="https://github.com/visibleuser/visibleuser/blob/main/heckerboi2.gif" />
 
 ---
 
